@@ -16,8 +16,8 @@
 
   nickname:   "BocchiDaruko",
   status:     "☕ Coding with music on full blast",
-  learning:   ["whatever catches my eye", "a little bit of everything"],
-  ask_me_about: ["code", "anime", "random stuff"],
+  learning:   "whatever catches my eye", "a little bit of everything",
+  ask_me_about: "code", "anime", "random stuff",
   fun_fact:   "I debug best after midnight 🌙"
 
 ```
